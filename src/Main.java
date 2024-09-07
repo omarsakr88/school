@@ -373,6 +373,9 @@ public class Main {
         student.degreeList.remove(degree);
     }
 
+    static void fullDegree() {
+        
+    }
 
     static Student getStudent() {
         System.out.println("Enter student ID:");
